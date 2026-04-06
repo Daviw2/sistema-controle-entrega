@@ -1,3 +1,4 @@
+// Classe responsável pela autenticação do usuário
 package modelo;
 
 public class Usuario {
