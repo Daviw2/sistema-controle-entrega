@@ -1,5 +1,6 @@
 package modelo;
 
+// Classe que representa um endereço de entrega
 public class Endereco {
     private String logradouro;
     private String complemento;
