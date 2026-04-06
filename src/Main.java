@@ -1,3 +1,4 @@
+//Essa é a classe principal do sistema
 import modelo.*;
 
 public class Main {
