@@ -10,6 +10,20 @@ Senha fixa utilizada:
 12345678
 
 ---
+## 🔀 Fluxo de Versionamento
+
+O projeto seguiu o seguinte fluxo utilizando Git:
+
+- A branch principal (main) foi mantida como base de integração
+- O desenvolvimento foi realizado exclusivamente na branch `release-dev`
+- Foram realizados múltiplos commits incrementais durante o desenvolvimento
+- Ao final, foi criado um Pull Request para merge da branch `release-dev` na `main`
+
+Esse processo simula um fluxo real de desenvolvimento em equipe.
+
+
+
+
 
 ## 📦 Funcionalidades
 
@@ -35,6 +49,8 @@ Senha fixa utilizada:
 
 - main → branch final
 - release-dev → desenvolvimento
+
+
 
 ---
 
