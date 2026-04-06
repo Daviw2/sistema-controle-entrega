@@ -1,5 +1,5 @@
 package modelo;
-
+// Classe responsável por representar uma mercadoria
 public class Mercadoria {
     private String nome;
     private String descricao;
